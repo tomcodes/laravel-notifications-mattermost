@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.6.4",
         "illuminate/notifications": "^5.3|^6.0|^7.0|^8.0",
-        "thibaud-dauce/mattermost-php": "^1.0"
+        "tomcodes/mattermost-php": "^1.3"
     },
     "autoload": {
         "psr-4": {
